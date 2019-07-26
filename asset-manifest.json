@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://tortoise10h.github.io/Hi-Todolist/static/css/main.9bab759c.chunk.css",
+    "main.js": "https://tortoise10h.github.io/Hi-Todolist/static/js/main.7a518dfb.chunk.js",
+    "main.js.map": "https://tortoise10h.github.io/Hi-Todolist/static/js/main.7a518dfb.chunk.js.map",
+    "runtime~main.js": "https://tortoise10h.github.io/Hi-Todolist/static/js/runtime~main.b563edea.js",
+    "runtime~main.js.map": "https://tortoise10h.github.io/Hi-Todolist/static/js/runtime~main.b563edea.js.map",
+    "static/js/2.92f0d61b.chunk.js": "https://tortoise10h.github.io/Hi-Todolist/static/js/2.92f0d61b.chunk.js",
+    "static/js/2.92f0d61b.chunk.js.map": "https://tortoise10h.github.io/Hi-Todolist/static/js/2.92f0d61b.chunk.js.map",
+    "index.html": "https://tortoise10h.github.io/Hi-Todolist/index.html",
+    "precache-manifest.1c4f8da33a3b135c172acbcff340ce75.js": "https://tortoise10h.github.io/Hi-Todolist/precache-manifest.1c4f8da33a3b135c172acbcff340ce75.js",
+    "service-worker.js": "https://tortoise10h.github.io/Hi-Todolist/service-worker.js",
+    "static/css/main.9bab759c.chunk.css.map": "https://tortoise10h.github.io/Hi-Todolist/static/css/main.9bab759c.chunk.css.map"
+  }
+}
